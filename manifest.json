@@ -1,0 +1,14 @@
+{
+    "name": "Visiogen",
+    "short_name": "Visiogen",
+    "description": "VisioGen - Unleash Your Visual Imagination",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#141414",
+    "theme_color": "#141414",
+    "icons": [{
+        "src": "/dessktop.PNG",
+        "sizes": "122x122",
+        "type": "image/png"
+    }]
+}
